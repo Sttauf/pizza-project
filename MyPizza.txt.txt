@@ -3,4 +3,4 @@ whatever
 foods 
 list of igredients 
 chicken 
-fish
+no fish
