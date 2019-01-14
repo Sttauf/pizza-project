@@ -1,7 +1,5 @@
 pineapple
 whatever
-something more
-more info
-
-more
-and more
+foods 
+list of igredients 
+etc
